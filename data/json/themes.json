@@ -1,0 +1,134 @@
+[
+  {
+    "id": "minimal",
+    "name": "Minimal",
+    "description": "A distraction-free theme focused on typography and readability. Clean interface with elegant typography and subtle design elements.",
+    "author": "kepano",
+    "category": "Minimal",
+    "downloads": 450000,
+    "version": "6.2.5",
+    "lastUpdated": "2024-01-15",
+    "tags": ["minimal", "clean", "typography", "readability"],
+    "features": [
+      "Clean and distraction-free interface",
+      "Excellent typography optimization",
+      "Multiple color schemes",
+      "Mobile-friendly design"
+    ],
+    "preview": "/themes/minimal-preview.png",
+    "darkMode": true,
+    "lightMode": true,
+    "githubUrl": "https://github.com/kepano/obsidian-minimal",
+    "rating": 4.9
+  },
+  {
+    "id": "things",
+    "name": "Things",
+    "description": "Inspired by the popular Things app, this theme brings a task-focused design with clean layouts and intuitive visual hierarchy.",
+    "author": "colineckert",
+    "category": "Productivity",
+    "downloads": 320000,
+    "version": "2.1.3",
+    "lastUpdated": "2024-01-12",
+    "tags": ["productivity", "tasks", "clean", "modern"],
+    "features": [
+      "Task-focused design",
+      "Clean visual hierarchy",
+      "Customizable accent colors",
+      "Plugin integration optimized"
+    ],
+    "preview": "/themes/things-preview.png",
+    "darkMode": true,
+    "lightMode": true,
+    "githubUrl": "https://github.com/colineckert/obsidian-things",
+    "rating": 4.7
+  },
+  {
+    "id": "cybertron",
+    "name": "Cybertron",
+    "description": "A futuristic dark theme with neon accents and cyberpunk aesthetics. Perfect for coding and technical documentation.",
+    "author": "nickmilo",
+    "category": "Dark",
+    "downloads": 180000,
+    "version": "1.5.0",
+    "lastUpdated": "2024-01-08",
+    "tags": ["dark", "cyberpunk", "neon", "futuristic"],
+    "features": [
+      "Cyberpunk aesthetic design",
+      "Neon accent colors",
+      "Code-friendly syntax highlighting",
+      "Dark mode optimized"
+    ],
+    "preview": "/themes/cybertron-preview.png",
+    "darkMode": true,
+    "lightMode": false,
+    "githubUrl": "https://github.com/nickmilo/cybertron-theme",
+    "rating": 4.5
+  },
+  {
+    "id": "sanctum",
+    "name": "Sanctum",
+    "description": "A sophisticated theme with elegant serif typography and warm color palettes. Ideal for writing and academic work.",
+    "author": "jdanielmourao",
+    "category": "Academic",
+    "downloads": 250000,
+    "version": "1.8.2",
+    "lastUpdated": "2024-01-10",
+    "tags": ["academic", "serif", "elegant", "writing"],
+    "features": [
+      "Elegant serif typography",
+      "Warm color palettes",
+      "Academic writing optimized",
+      "Beautiful reading experience"
+    ],
+    "preview": "/themes/sanctum-preview.png",
+    "darkMode": true,
+    "lightMode": true,
+    "githubUrl": "https://github.com/jdanielmourao/obsidian-sanctum",
+    "rating": 4.8
+  },
+  {
+    "id": "nord",
+    "name": "Nord",
+    "description": "Based on the popular Nord color palette, offering a cool and calming color scheme with excellent contrast.",
+    "author": "insanum",
+    "category": "Cool",
+    "downloads": 380000,
+    "version": "1.3.1",
+    "lastUpdated": "2024-01-14",
+    "tags": ["nord", "cool", "pastel", "minimal"],
+    "features": [
+      "Nord color palette",
+      "Cool and calming design",
+      "Excellent contrast ratios",
+      "Eye-friendly colors"
+    ],
+    "preview": "/themes/nord-preview.png",
+    "darkMode": true,
+    "lightMode": true,
+    "githubUrl": "https://github.com/insanum/obsidian_nord",
+    "rating": 4.6
+  },
+  {
+    "id": "dracula",
+    "name": "Dracula",
+    "description": "The famous Dracula theme brings its iconic dark purple aesthetic to Obsidian with vibrant syntax highlighting.",
+    "author": "jkulak",
+    "category": "Dark",
+    "downloads": 290000,
+    "version": "2.0.4",
+    "lastUpdated": "2024-01-11",
+    "tags": ["dracula", "purple", "dark", "vibrant"],
+    "features": [
+      "Iconic Dracula color scheme",
+      "Vibrant syntax highlighting",
+      "Consistent with other Dracula apps",
+      "Eye-strain reduction"
+    ],
+    "preview": "/themes/dracula-preview.png",
+    "darkMode": true,
+    "lightMode": false,
+    "githubUrl": "https://github.com/jkulak/obsidian-dracula-theme",
+    "rating": 4.4
+  }
+]
