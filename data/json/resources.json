@@ -1,0 +1,158 @@
+[
+  {
+    "id": "dataview",
+    "name": "Dataview",
+    "description": "A high-performance data index and query language over Markdown files, for https://obsidian.md/. Transform your vault into a database.",
+    "url": "https://obsidian.md/plugins?id=dataview",
+    "githubUrl": "https://github.com/blacksmithgu/obsidian-dataview",
+    "author": "Michael Brenan",
+    "category": "query",
+    "rating": 4.8,
+    "downloads": 2150000,
+    "version": "0.5.64",
+    "lastUpdated": "2024-01-15",
+    "tags": ["database", "query", "markdown", "data"],
+    "features": [
+      "Query vault data with SQL-like syntax",
+      "Generate dynamic lists and tables",
+      "JavaScript API for advanced queries",
+      "Real-time data indexing"
+    ],
+    "screenshots": [
+      "/screenshots/dataview-1.png",
+      "/screenshots/dataview-2.png"
+    ],
+    "review": "Dataview is arguably the most powerful plugin for Obsidian when it comes to data management and querying. It transforms your vault into a queryable database, allowing you to create dynamic views of your notes. Perfect for project management, habit tracking, and content organization.",
+    "reviewRating": 5
+  },
+  {
+    "id": "templater",
+    "name": "Templater",
+    "description": "A template language that lets you insert variables and functions results into your notes. It will also let you execute JavaScript code manipulating those variables and functions.",
+    "url": "https://obsidian.md/plugins?id=templater-obsidian",
+    "githubUrl": "https://github.com/SilentVoid13/Templater",
+    "author": "SilentVoid13",
+    "category": "template",
+    "rating": 4.7,
+    "downloads": 1850000,
+    "version": "2.2.0",
+    "lastUpdated": "2024-01-10",
+    "tags": ["template", "automation", "javascript", "productivity"],
+    "features": [
+      "Advanced template system with variables",
+      "JavaScript code execution",
+      "Date and time manipulation",
+      "File and folder operations"
+    ],
+    "screenshots": [
+      "/screenshots/templater-1.png",
+      "/screenshots/templater-2.png"
+    ],
+    "review": "Templater is essential for anyone who wants to automate note creation in Obsidian. It's incredibly flexible and powerful, allowing for complex template logic and automation.",
+    "reviewRating": 5
+  },
+  {
+    "id": "calendar",
+    "name": "Calendar",
+    "description": "Simple calendar widget for Obsidian. Create and view daily notes with an intuitive calendar interface.",
+    "url": "https://obsidian.md/plugins?id=calendar",
+    "githubUrl": "https://github.com/liamcain/obsidian-calendar-plugin",
+    "author": "Liam Cain",
+    "category": "calendar",
+    "rating": 4.6,
+    "downloads": 1420000,
+    "version": "1.5.10",
+    "lastUpdated": "2023-12-20",
+    "tags": ["calendar", "daily-notes", "scheduling", "time"],
+    "features": [
+      "Visual calendar widget",
+      "Quick daily note creation",
+      "Note status indicators",
+      "Week numbers support"
+    ],
+    "screenshots": [
+      "/screenshots/calendar-1.png",
+      "/screenshots/calendar-2.png"
+    ],
+    "review": "The Calendar plugin provides a clean and intuitive way to manage daily notes. It's perfect for journaling and keeping track of your daily writing habits.",
+    "reviewRating": 4
+  },
+  {
+    "id": "kanban",
+    "name": "Kanban",
+    "description": "Create markdown-backed Kanban boards in Obsidian. Manage your projects and tasks with a visual board interface.",
+    "url": "https://obsidian.md/plugins?id=obsidian-kanban",
+    "githubUrl": "https://github.com/mgmeyers/obsidian-kanban",
+    "author": "Matthew Meyers",
+    "category": "board",
+    "rating": 4.5,
+    "downloads": 980000,
+    "version": "1.5.3",
+    "lastUpdated": "2024-01-05",
+    "tags": ["kanban", "project-management", "tasks", "visual"],
+    "features": [
+      "Visual Kanban boards",
+      "Markdown-backed cards",
+      "Drag and drop interface",
+      "Custom board templates"
+    ],
+    "screenshots": [
+      "/screenshots/kanban-1.png",
+      "/screenshots/kanban-2.png"
+    ],
+    "review": "Kanban brings visual project management to Obsidian. While it's not as feature-rich as dedicated project management tools, it integrates seamlessly with your notes.",
+    "reviewRating": 4
+  },
+  {
+    "id": "excalidraw",
+    "name": "Excalidraw",
+    "description": "An Obsidian plugin to edit and view Excalidraw drawings. Create beautiful hand-drawn diagrams directly in your notes.",
+    "url": "https://obsidian.md/plugins?id=obsidian-excalidraw-plugin",
+    "githubUrl": "https://github.com/zsviczian/obsidian-excalidraw-plugin",
+    "author": "Zsolt Viczian",
+    "category": "visualization",
+    "rating": 4.9,
+    "downloads": 750000,
+    "version": "2.0.18",
+    "lastUpdated": "2024-01-12",
+    "tags": ["drawing", "diagrams", "visualization", "sketching"],
+    "features": [
+      "Hand-drawn style diagrams",
+      "Extensive shape library",
+      "Text and arrow tools",
+      "Export to various formats"
+    ],
+    "screenshots": [
+      "/screenshots/excalidraw-1.png",
+      "/screenshots/excalidraw-2.png"
+    ],
+    "review": "Excalidraw is perfect for visual thinkers. It allows you to create beautiful, hand-drawn style diagrams that integrate perfectly with your notes. Essential for brainstorming and concept mapping.",
+    "reviewRating": 5
+  },
+  {
+    "id": "advanced-tables",
+    "name": "Advanced Tables",
+    "description": "Improved table navigation, formatting, and manipulation for Obsidian. Makes working with Markdown tables much easier.",
+    "url": "https://obsidian.md/plugins?id=table-editor-obsidian",
+    "githubUrl": "https://github.com/tgrosinger/advanced-tables-obsidian",
+    "author": "Tony Grosinger",
+    "category": "organization",
+    "rating": 4.4,
+    "downloads": 650000,
+    "version": "0.21.0",
+    "lastUpdated": "2023-11-28",
+    "tags": ["tables", "formatting", "markdown", "organization"],
+    "features": [
+      "Enhanced table editing",
+      "Auto-formatting tables",
+      "Table navigation shortcuts",
+      "CSV import support"
+    ],
+    "screenshots": [
+      "/screenshots/advanced-tables-1.png",
+      "/screenshots/advanced-tables-2.png"
+    ],
+    "review": null,
+    "reviewRating": null
+  }
+]
