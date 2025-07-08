@@ -1,7 +1,7 @@
 export interface PostData {
   id: string;
   title: string;
-  description?: string;
+  description: string;
   date: string;
   contentHtml?: string;
 }

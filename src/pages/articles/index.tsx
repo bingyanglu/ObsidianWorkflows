@@ -40,7 +40,7 @@ export const getStaticProps: GetStaticProps<HomeProps> = async () => {
     return {
       id,
       title: matterResult.data.title,
-      description: matterResult.data.description,
+      description: matterResult.data.description ?? "",
       date: matterResult.data.date,
     } as PostData;
   });
