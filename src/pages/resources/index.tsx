@@ -3,16 +3,10 @@ import Head from "next/head";
 import fs from "fs";
 import path from "path";
 import ResourceList from "@/components/ResourceList";
-
-interface Resource {
-  // 定义你的资源类型，例如：
-  title: string;
-  url: string;
-  description: string;
-}
+import type { Plugin } from "@/types/common";
 
 interface ResourcesProps {
-  resources: Resource[];
+  resources: Plugin[];
 }
 
 export default function Resources({ resources }: ResourcesProps) {
@@ -40,7 +34,7 @@ export const getStaticProps: GetStaticProps<ResourcesProps> = async () => {
     "resources.json"
   );
   const resourcesData = fs.readFileSync(resourcesPath, "utf8");
-  const resources: Resource[] = JSON.parse(resourcesData);
+  const resources: Plugin[] = JSON.parse(resourcesData);
 
   return {
     props: {
